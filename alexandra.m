@@ -1,16 +1,16 @@
-%Numar de ordine: 12
+%Numarul echipei : 4
 %Semnal triunghiular 
 
 
 %Date initiale 
 %Perioada T= 40 s
-%Durata semnalelor D = 12
+%Durata semnalelor D = 4
 %Rezolutie temporara adecvata
 %Numar de coeficienti N = 50
 
 
 T = 40;
-D = 12;
+D = 4;
 N = 50;
 w0 = 2*pi/T; %pulsatia unghiulara a semnalului
 t_tri = 0:0.002:D;  %esantionarea semnalului original 
